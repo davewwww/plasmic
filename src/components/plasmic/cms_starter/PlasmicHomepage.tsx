@@ -151,7 +151,7 @@ function PlasmicHomepage__RenderFunc(props: {
                 sty.h1
               )}
             >
-              {"Get started with Plasmic visual CMS."}
+              {"Get started with Plasmic ."}
             </h1>
             <div
               data-plasmic-name={"text"}
